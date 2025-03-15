@@ -29,7 +29,7 @@ class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text("Flutter IndexedStack Example")),
+      appBar: AppBar(title: Text("1050080155-NguyễnPhươngSinh")),
       body: SizedBox(
         width: double.infinity,
         height: double.infinity,

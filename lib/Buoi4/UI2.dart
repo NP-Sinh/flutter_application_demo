@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
       title: 'Example',
       debugShowCheckedModeBanner: false,
       home: Scaffold(
-        appBar: AppBar(title: const Text('Example')),
+        appBar: AppBar(title: const Text('1050080155-NguyễnPhươngSinh')),
         body: Center(
           child: Container(
             width: 250,

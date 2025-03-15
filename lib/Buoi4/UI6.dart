@@ -24,7 +24,7 @@ class MyHomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text("Flutter SizedBox Example")),
+      appBar: AppBar(title: Text("1050080155-Nguyễn Phương Sinh")),
       body: Center(
         child: SizedBox(
           width: 250,

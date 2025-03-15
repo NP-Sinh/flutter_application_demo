@@ -25,7 +25,7 @@ class MyHomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text("Flutter Column Example")),
+      appBar: AppBar(title: Text("1050080155-NguyễnPhươngSinh")),
       body: Center(
         child: Column(
           children: [
